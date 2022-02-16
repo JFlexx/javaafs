@@ -12,10 +12,9 @@ Un saludo.
 # Memoria
 *********** Día 29  de abril
 - He empezado leyendo la práctica y estructurando todo lo que se pedía.
-Una vez terminado, he vuelto a leerme los que se pedía en la primera fase, y los ficheros .java
-que hay que modificar para esta fase. 
+Una vez terminado, he vuelto a leerme los que se pedía en la primera fase, y los ficheros .java que hay que modificar para esta fase. 
 También dedique bastante tiempo a mirar la guía completa sobre la programación en JAVA RAMI ya que, al menos yo no, no estoy familiarizado con esto.
-- Este día no programe nada.
+- Este día no programé nada.
 
 ******* Día 30 de abril
 - Empezamos los primeros pasos  de la Fase 1. Tocando los ficheros "ViceImpl" y "ViceReaderImpl"
@@ -137,3 +136,5 @@ ViceImpl.java.
 -- Por último añadí en método close() tanto de ViceReaderImpl.java como de ViceWriterImpl.java, 
 donde hice uso del LockManager, para solicitar bloqueo de lecturoa o escritura, o bien solicitar
 la eliminacion de un bloqueo de lectura o escritura.
+
+sorry por las faltas(no es el doc definitivo), es lo que tiene marckdown.
