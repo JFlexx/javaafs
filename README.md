@@ -1,6 +1,15 @@
 # javaafs
-Práctica de javaAfs
+Práctica de javaAfs: nota 10.
 
+
+# Comentario de conducta 
+Si estas leyendo esto, es por que yo confío en ti o, en su defecto, alguien en quien yo confío confía a la vez en ti.
+__La cuestión es:__ Creo firmemente en la libertad de la información, y más si el objetivo es aprender, como debería ser en una universidad. Obviamente, esto no es código profesional, ninguna empresa se verá perjudicada por ello. Pero siguen existiendo correctores de prácticas, ya que desgraciadamente, sigue existiendo gente que copia en vez de basarse en otras cosas. Si subo esto aquí es por que confío en que aquel que lo esté leyendo, lo usará legítimamente. Llámame idealista. Pero... ¿Entonces es un repositorio público?. No. De nuevo, confío en que __TÚ__ usarás esto correctamente. El problema es que si hago este repositorio público, correremos el riesgo de que algún idiota copie y pegue este código, y empiecen a saltar copias por todos lados. A mí me da igual, yo ya tengo aprobado esto, pero imagino que a tí no.
+
+Un saludo.
+
+
+# Memoria
 *********** Día 29  de abril
 - He empezado leyendo la práctica y estructurando todo lo que se pedía.
 Una vez terminado, he vuelto a leerme los que se pedía en la primera fase, y los ficheros .java
